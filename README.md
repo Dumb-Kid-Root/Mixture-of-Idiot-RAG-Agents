@@ -169,7 +169,7 @@ Follow these steps to get this intelligent query engine humming on your machine.
 If you don't have the project files yet:
 ```bash
 git clone https://github.com/VinsmokeSomya/Mixture-of-Idiot-RAG-Agents.git
-cd Mixture-of-Idiots-Agents-with-RAG
+cd Mixture-of-Idiot-RAG-Agents
 ```
 
 <h3 id="set-up-virtual-environment">3. Set Up Your Python Playground (Virtual Environment)</h3>
