@@ -1,4 +1,4 @@
-<h1 align="center" id="top">🤖✨ Mixture of Idiots Agents with RAG ✨🤖</h1>
+<h1 align="center" id="top">🤖✨ Mixture of Idiot RAG Agents ✨🤖</h1>
 
 <p align="center">
   <strong>Harnessing a Symphony of AI Agents for Intelligent Document Q&A!</strong>
@@ -168,7 +168,7 @@ Follow these steps to get this intelligent query engine humming on your machine.
 
 If you don't have the project files yet:
 ```bash
-git clone https://github.com/VinsmokeSomya/Mixture-of-Idiots-Agents-with-RAG.git
+git clone https://github.com/VinsmokeSomya/Mixture-of-Idiot-RAG-Agents.git
 cd Mixture-of-Idiots-Agents-with-RAG
 ```
 
